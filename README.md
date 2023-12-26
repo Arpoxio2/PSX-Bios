@@ -1,2 +1,3 @@
-# PSX-Bios
-PSX Bios files for Raspberry Pi's RetroPie
+# PlayStation One | BIOS Files
+
+Bios Files for your RetroPie
